@@ -14,6 +14,7 @@ A statistical report is also avaliable when a user wants to view any game played
 
 Main developer
 - [Henre Houben](https://github.com/HennasHond)
+
 Co-Developers
 - [Dan Plummer](https://github.com/DANI3L853)
 
